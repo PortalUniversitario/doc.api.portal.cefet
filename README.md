@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="/sources/imagens/logo.PNG" width="80%">
+    <img src="/imagens/logo.PNG" width="80%">
     <br></br>
     API desenvolvida em linguagem Python para interação web com o portal online da instituição federal Centro Federal de Educação Tecnológica Celso Suckow da Fonseca (CEFET/RJ).
 </p>
@@ -10,7 +10,7 @@
 Application Programming Interface (API) é um conjunto de padrões de programação que permite acesso a um serviço em expecífico. Em resumo, é uma camada intermediária que promove a interação de uma aplicação com o serviço desejado, neste caso o [portal do aluno CEFET/RJ](https://alunos.cefet-rj.br/aluno/).
 
 <p align="center">
-    <img src="/sources/imagens/api.png" width="80%">
+    <img src="/imagens/api.png" width="80%">
 </p>
 
 ## Objetivo
